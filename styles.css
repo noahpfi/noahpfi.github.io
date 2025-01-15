@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+h1, h2 {
+  font-weight: bold;
+}
+
+footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
